@@ -1,5 +1,5 @@
 
-// const Promise = require("./promise3")
+const Promise = require("./promise3")
 
 
 // var p = new Promise((resolve, reject) => {
